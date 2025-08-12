@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajaNoshairwan
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Android App Development.
+- 🌱 I’m currently learning Flutter Development.
 - 💞️ I’m looking to collaborate on the projects.
 - 📫 How to reach me email at @noshairwan.kamal03@gmail.com
 - 😄 Pronouns: Raja
